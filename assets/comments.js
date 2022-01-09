@@ -24,7 +24,7 @@ document.write(`
   }
   lastHeight = div.clientHeight;
   window.dispatchEvent(new Event('resize'));
- }, 1000);
+ }, 250);
  
  setTimeout(function() {
    var section = document.querySelector("section");
