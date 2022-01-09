@@ -13,3 +13,4 @@ Regards.
 
 [Processing big numeric arrays in python](https://dgolovin-dev.github.io/article-processing-big-numeric-arrays-in-python/)
 
+<script src='/assets/comments.js'></script>
