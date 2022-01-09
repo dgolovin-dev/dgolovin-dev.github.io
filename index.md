@@ -1,6 +1,6 @@
 # Articles
 
-[Number data arrays processing in python](https://dgolovin-dev.github.io/big-numeric-data-arrays-processing-article/)
+[Processing big numeric arrays in python](https://dgolovin-dev.github.io/big-numeric-data-arrays-processing-article/)
 
 # About
 Hi. 
