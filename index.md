@@ -1,5 +1,5 @@
 
-# Software developer's blog
+# Dmitry Golovin
 
 Hi. 
 
@@ -9,9 +9,7 @@ If you want to know more about me, see my [CV](cv.md).
 
 Regards.
 
-# Article
-
+# Articles
 
 [Processing big numeric arrays in python](https://dgolovin-dev.github.io/article-processing-big-numeric-arrays-in-python/)
 
-# About
