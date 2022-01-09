@@ -3,7 +3,6 @@ document.write(`
    repo="dgolovin-dev/dgolovin-dev.github.io"
    issue-term="pathname"
    theme="github-light"
-   crossorigin="anonymous"
-   async>
+   crossorigin="anonymous">
  </script>
 `);
