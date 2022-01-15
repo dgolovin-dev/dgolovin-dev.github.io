@@ -11,6 +11,6 @@ Regards.
 
 ## Articles
 
-[Processing big numeric arrays in python](https://dgolovin-dev.github.io/article-processing-big-numeric-arrays-in-python/)
+- 2022-01-22 - [Processing big numeric arrays in python](https://dgolovin-dev.github.io/article-processing-big-numeric-arrays-in-python/)
 
 <script src='/assets/comments.js'></script>
