@@ -11,6 +11,7 @@ Regards.
 
 ## Articles
 
+- 2022-07-04 - [Object Binding in Unity3d (Service locator, dependency injection)](https://dgolovin-dev.github.io/article-unity3d-di/)
 - 2022-01-22 - [Processing big numeric arrays in python](https://dgolovin-dev.github.io/article-processing-big-numeric-arrays-in-python/)
 
 <script src='/assets/comments.js'></script>
