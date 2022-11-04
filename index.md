@@ -17,6 +17,7 @@ Regards.
 
 ## Publications
 
+- 2022-11-04 - Source code [Solitaire - Phaser+Cordova experimental project for Web+Android+IOS](https://github.com/dgolovin-dev/cordova-phaser-solitaire)
 - 2022-07-15 - Source code [Unity3d: Animation helper for Particle Systems](https://github.com/dgolovin-dev/unity3d-animation-with-particles)
 - 2022-07-04 - Article [Object Binding in Unity3d (Service locator, dependency injection)](https://dgolovin-dev.github.io/article-unity3d-di/)
 - 2022-01-22 - Article [Processing big numeric arrays in python](https://dgolovin-dev.github.io/article-processing-big-numeric-arrays-in-python/)
