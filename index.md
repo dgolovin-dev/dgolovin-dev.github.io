@@ -16,6 +16,7 @@ Regards.
 
 
 ## Publications
+- 2024-06-30 - Source code & Article [Air quality control (Arduino Nano, DHT-22, MH-Z19B, MH-Z19B)(RUS)](https://github.com/dgolovin-dev/air-quality-control)
 - 2023-05-02 - Source code [Proposal on JS Events](https://github.com/dgolovin-dev/eventemitter3-typedevent) 
 - 2022-11-04 - Source code [Solitaire - Phaser+Cordova experimental project for Web+Android+IOS](https://github.com/dgolovin-dev/cordova-phaser-solitaire)
 - 2022-07-15 - Source code [Unity3d: Animation helper for Particle Systems](https://github.com/dgolovin-dev/unity3d-animation-with-particles)
