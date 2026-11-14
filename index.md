@@ -7,14 +7,14 @@ backend and **Unity (C#)** client. Currently focused on server-side: high-load
 realtime backends for card and board games, built with **Socket.IO**, **MySQL**,
 **Redis** (cache, queues, distributed locks), **AWS** and **Kubernetes** (autoscaling).
 
-## Projects
+## Active Projects
 
-Backend development and maintenance of realtime card/board game platforms:
+Realtime card/board game platforms — server (Node.js / TypeScript) and Unity (C#) client:
 
-- [Royal Belote](https://royalbelote.com) — online belote (backend).
-- [Pref.ru](https://pref.ru) — preference card game (backend).
-- [Rummy](https://play.google.com/store/apps/details?id=azur.cards.rummy) — rummy card game (backend + client).
-- [Domino King](https://domino-king.com) — domino (web + clients).
+- [Royal Belote](https://royalbelote.com) — belote/coinche card game.
+- [Pref.ru](https://pref.ru) — preferans card game.
+- [Rummy](https://play.google.com/store/apps/details?id=azur.cards.rummy) — rummy card game.
+- [Domino King](https://domino-king.com) — domino.
 
 ## About
 
@@ -24,7 +24,7 @@ server-side work, and also have solid client-side (Unity, C#) experience.
 
 ## CV
 
-- [Download CV (Markdown)](cv/cv.md)
+**[View my CV →](cv/cv.md)**
 
 ## Publications
 

@@ -34,7 +34,7 @@ designing application architecture.
 ### Lead Software Developer — Azur Interactive Games
 *Jul 2021 – Present · Belgrade, Serbia (Hybrid)*
 
-Server-side development and maintenance of realtime card/board game platforms:
+Development and maintenance of realtime card/board game platforms (server and Unity client):
 [royalbelote.com](https://royalbelote.com), [pref.ru](https://pref.ru),
 [Rummy](https://play.google.com/store/apps/details?id=azur.cards.rummy),
 [domino-king.com](https://domino-king.com).
@@ -72,12 +72,14 @@ Server-side development and maintenance of realtime card/board game platforms:
 - Vaadin, Spring, Hibernate, PostgreSQL, Documentum, Apache CXF, Axis, Selenium, JUnit.
 - Projects: task management system, report system integration, document management for a nuclear power station.
 
-## Projects
+## Active Projects
 
-- [Royal Belote](https://royalbelote.com) — online belote platform (backend).
-- [Pref.ru](https://pref.ru) — preference card game (backend).
-- [Rummy](https://play.google.com/store/apps/details?id=azur.cards.rummy) — rummy card game (backend + client).
-- [Domino King](https://domino-king.com) — domino (web + clients).
+Realtime card/board game platforms — server (Node.js / TypeScript) and Unity (C#) client:
+
+- [Royal Belote](https://royalbelote.com) — online belote platform.
+- [Pref.ru](https://pref.ru) — preference card game.
+- [Rummy](https://play.google.com/store/apps/details?id=azur.cards.rummy) — rummy.
+- [Domino King](https://domino-king.com) — domino.
 
 ## Education
 
