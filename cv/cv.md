@@ -1,6 +1,6 @@
 # Dmitry Golovin
 
-**Backend / Fullstack Developer — Node.js / TypeScript**
+**Fullstack Developer — Node.js / TypeScript (backend) + Unity / C# (client)**
 
 Belgrade, Serbia
 
@@ -10,7 +10,7 @@ Belgrade, Serbia
 
 ## Summary
 
-Backend / fullstack developer with 10+ years of software engineering experience, currently
+Fullstack developer with 10+ years of software engineering experience — Node.js / TypeScript backend and Unity (C#) client. Currently
 focused on high-load realtime backends for card and board games. Strong in
 Node.js / TypeScript, MySQL, Redis (distributed locks), AWS and Kubernetes with
 autoscaling. Background spans enterprise web (Java, Python), data engineering

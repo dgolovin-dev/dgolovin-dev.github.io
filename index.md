@@ -1,11 +1,11 @@
 # Dmitry Golovin
 
-**Backend / Fullstack Developer — Node.js / TypeScript**
+**Fullstack Developer — Node.js / TypeScript (backend) + Unity / C# (client)**
 
-I'm a software developer with 10+ years of experience, currently focused on
-server-side development: high-load realtime backends for card and board games,
-built with **Node.js / TypeScript**, **MySQL**, **Redis** (distributed locks),
-**AWS** and **Kubernetes** (autoscaling).
+I'm a fullstack developer with 10+ years of experience — **Node.js / TypeScript**
+backend and **Unity (C#)** client. Currently focused on server-side: high-load
+realtime backends for card and board games, built with **MySQL**, **Redis**
+(distributed locks), **AWS** and **Kubernetes** (autoscaling).
 
 ## Projects
 
@@ -20,7 +20,7 @@ Backend development and maintenance of realtime card/board game platforms:
 
 10+ years of software development: 4 years in game development (Unity3d) and
 6 years in enterprise web software. I learn new technologies quickly, prefer
-server-side work, and also have solid client-side experience.
+server-side work, and also have solid client-side (Unity, C#) experience.
 
 ## CV
 
