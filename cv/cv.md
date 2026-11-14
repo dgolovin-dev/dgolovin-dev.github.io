@@ -11,7 +11,7 @@ Belgrade, Serbia
 ## Summary
 
 Fullstack developer with 10+ years of software engineering experience — Node.js / TypeScript backend and Unity (C#) client. Primarily
-focused on high-load realtime backends for card and board games. Strong in
+focused on high-load turn-based backends for card and board games. Strong in
 Node.js / TypeScript, MySQL, Redis (cache, queues, distributed locks), AWS and Kubernetes with
 autoscaling. Background spans enterprise web (Java, Python), data engineering
 and 4 years of game development (Unity3d). Comfortable leading teams and
@@ -34,7 +34,7 @@ designing application architecture.
 ### Lead Software Developer — Azur Interactive Games
 *Jul 2021 – Present · Belgrade, Serbia (Hybrid)*
 
-Development and maintenance of realtime card/board game platforms (server and Unity client):
+Development and maintenance of turn-based card/board game platforms (server and Unity client):
 [royalbelote.com](https://royalbelote.com), [pref.ru](https://pref.ru),
 [Rummy](https://play.google.com/store/apps/details?id=azur.cards.rummy),
 [domino-king.com](https://domino-king.com).
@@ -74,7 +74,7 @@ Development and maintenance of realtime card/board game platforms (server and Un
 
 ## Active Projects
 
-Realtime card/board game platforms — server (Node.js / TypeScript) and Unity (C#) client:
+Turn-based card/board game platforms — server (Node.js / TypeScript) and Unity (C#) client:
 
 - [Royal Belote](https://royalbelote.com) — online belote platform.
 - [Pref.ru](https://pref.ru) — preference card game.

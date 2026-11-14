@@ -4,12 +4,12 @@
 
 I'm a fullstack developer with 10+ years of experience — **Node.js / TypeScript**
 backend and **Unity (C#)** client. Currently focused on server-side: high-load
-realtime backends for card and board games, built with **Socket.IO**, **MySQL**,
+turn-based backends for card and board games, built with **Socket.IO**, **MySQL**,
 **Redis** (cache, queues, distributed locks), **AWS** and **Kubernetes** (autoscaling).
 
 ## Active Projects
 
-Realtime card/board game platforms — server (Node.js / TypeScript) and Unity (C#) client:
+Turn-based card/board game platforms — server (Node.js / TypeScript) and Unity (C#) client:
 
 - [Royal Belote](https://royalbelote.com) — belote/coinche card game.
 - [Pref.ru](https://pref.ru) — preferans card game.
