@@ -1,6 +1,6 @@
 # Dmitry Golovin
 
-**Backend Developer — Node.js / TypeScript**
+**Backend / Fullstack Developer — Node.js / TypeScript**
 
 I'm a software developer with 10+ years of experience, currently focused on
 server-side development: high-load realtime backends for card and board games,
