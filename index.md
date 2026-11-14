@@ -4,8 +4,8 @@
 
 I'm a fullstack developer with 10+ years of experience — **Node.js / TypeScript**
 backend and **Unity (C#)** client. Currently focused on server-side: high-load
-realtime backends for card and board games, built with **MySQL**, **Redis**
-(distributed locks), **AWS** and **Kubernetes** (autoscaling).
+realtime backends for card and board games, built with **Socket.IO**, **MySQL**,
+**Redis** (cache, queues, distributed locks), **AWS** and **Kubernetes** (autoscaling).
 
 ## Projects
 

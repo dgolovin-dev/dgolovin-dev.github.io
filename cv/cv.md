@@ -10,18 +10,21 @@ Belgrade, Serbia
 
 ## Summary
 
-Fullstack developer with 10+ years of software engineering experience — Node.js / TypeScript backend and Unity (C#) client. Currently
+Fullstack developer with 10+ years of software engineering experience — Node.js / TypeScript backend and Unity (C#) client. Primarily
 focused on high-load realtime backends for card and board games. Strong in
-Node.js / TypeScript, MySQL, Redis (distributed locks), AWS and Kubernetes with
+Node.js / TypeScript, MySQL, Redis (cache, queues, distributed locks), AWS and Kubernetes with
 autoscaling. Background spans enterprise web (Java, Python), data engineering
 and 4 years of game development (Unity3d). Comfortable leading teams and
 designing application architecture.
 
 ## Skills
 
-- **Backend:** Node.js, TypeScript, JavaScript, Java (Spring, JPA), Python (Django), PHP
-- **Databases:** MySQL, Redis (pub/sub, distributed locks), PostgreSQL, MongoDB, Cassandra
+- **Backend:** Node.js, TypeScript, JavaScript, Socket.IO, Java (Spring, JPA), Python (Django), PHP
+- **Databases:** MySQL, Redis (cache, pub/sub queues, distributed locks), PostgreSQL, MongoDB, Cassandra
+- **API & contracts:** JSON Schema, JWT, Socket.IO API docs + client DTO generation (custom JSDoc extension)
+- **Integrations:** external authentication (OAuth/JWT) and payment provider integration
 - **Infra:** AWS, Docker, Kubernetes (autoscaling), Nginx, Linux
+- **Observability:** VictoriaMetrics (histograms), Grafana, alerting
 - **Data processing:** NumPy, xarray, Numba
 - **Game dev / client:** Unity3d, C#, shaders, Phaser3, Cordova, WebGL (THREE.js)
 - **Other:** Git, HTML/CSS
@@ -36,8 +39,11 @@ Server-side development and maintenance of realtime card/board game platforms:
 [Rummy](https://play.google.com/store/apps/details?id=azur.cards.rummy),
 [domino-king.com](https://domino-king.com).
 
-- TypeScript, Node.js, MySQL, Redis (distributed locks), AWS, Kubernetes (autoscaling).
-- Earlier in this role: Unity3d client work — C#, shaders, UI, mobile (iOS/Android).
+- TypeScript, Node.js, Socket.IO, MySQL, Redis (cache, queues, distributed locks), AWS, Kubernetes (autoscaling).
+- API docs and client DTO generation for Socket.IO services via a custom JSDoc extension (Swagger-like output).
+- Integration of external authentication and payment providers; JWT-based authentication and per-message encryption.
+- Monitoring and alerting: VictoriaMetrics (histograms), Grafana.
+- Periodic Unity3d client work — C#, shaders, UI, mobile (iOS/Android).
 
 ### Lead Software Developer — QuantNet
 *Nov 2018 – Jun 2021 · Moscow, Russia*
